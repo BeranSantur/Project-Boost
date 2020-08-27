@@ -3,7 +3,14 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - DEAD
+  - Friendly
+  - Start
+  - Body
+  - Foot (0)
+  - Foot (1)
+  - Head
   layers:
   - Default
   - TransparentFX
